@@ -1,0 +1,51 @@
+{
+  "login": {
+    "title": "LOGIN",
+    "greeting": "Welcome",
+    "companyPanel": "Company Admin Panel",
+    "username": "username",
+    "password": "password",
+    "required": "required"
+  },
+  "header": {
+    "logout": "Sign Out",
+    "companyPanel": "Company Admin Panel"
+  },
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "food": "Food"
+  },
+  "all": {
+    "error": "Error",
+    "success": "Success",
+    "noData": "No Data Found",
+    "delete": "Are you sure to delete item ?",
+    "recovery": "You can not recovery",
+    "edit": "Edit",
+    "back": "Back",
+    "create": "Create",
+    "required": "required",
+    "PasswordUnvalid": "Must Contain 5 Characters, One Uppercase, One Lowercase and One Number"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "appetizer": "Appetizer Chart",
+    "dessert": "dessert Chart"
+  },
+  "food": {
+    "title": "Foods",
+    "actions": "Actions",
+    "search": "Search",
+    "filter": "Filter",
+    "notFound": "No records found",
+    "dessert": "Dessert(100g serving)",
+    "calories": "Calories",
+    "fat": "Fat (g)",
+    "carbs": "Carbs (g)",
+    "protein": "Protein (g)",
+    "removeFilter": "Remove Filter"
+  },
+  "chart": {
+    "title": "chart title number one"
+  }
+}

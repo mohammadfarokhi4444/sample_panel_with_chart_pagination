@@ -1,0 +1,52 @@
+{
+  "login": {
+    "title": "ورود",
+    "greeting": "خوش آمدید",
+    "companyPanel": "پنل ادمین شرکت",
+    "username": "نام کاربری",
+    "password": "رمزعبور",
+    "required": "الزامی است"
+  },
+  "header": {
+    "logout": "خروج",
+    "companyPanel": "پنل ادمین شرکت"
+  },
+  "sidebar": {
+    "dashboard": "داشبورد",
+    "food": "غذا"
+  },
+  "all": {
+    "error": "خطا",
+    "success": "موفق",
+    "noData": "محتوایی یافت نشد",
+    "delete": "آیا از حذف ایتم مطمئن هستید ؟",
+    "recovery": "امکان بازیابی وجود ندارد",
+    "edit": "ویرایش",
+    "back": "بازگشت",
+    "create": "ایجاد",
+    "required": "الزامی است",
+    "PasswordUnvalid": "باید شامل 5 کاراکتر، یک حرف بزرگ، یک حرف کوچک و یک عدد باشد"
+  },
+  "dashboard": {
+    "title": "داشبورد",
+    "appetizer": "نمودار پیش غذا",
+    "dessert": "نمودار دسر"
+  },
+  "food": {
+    "title": "غذا ها",
+    "firstname": "نام",
+    "actions": "عملیات",
+    "search": "جستجو",
+    "filter": "فیلتر",
+    "notFound": "هیچ رکوردی یافت نشد",
+    "dessert": "دسر (100 گرم)",
+    "calories": "کالری",
+    "fat": "چربی",
+    "carbs": "کربوهیدرات",
+    "protein": "پروتئین",
+    "removeFilter": "حذف فیلتر"
+  },
+  "chart": {
+    "title": "عنوان چارت شماره یک"
+  }
+}
